@@ -1,0 +1,415 @@
+{
+    "meta": {
+        "status": 200,
+        "messages": [],
+        "pagination": {
+            "count": 1,
+            "max": 20,
+            "offset": 0,
+            "sort": "id",
+            "order": null,
+            "total": 1,
+            "currentUrl": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?offset=0&max=20&sort=id&nhtsaId=16V747000",
+            "nextUrl": null,
+            "previousUrl": null
+        },
+        "filters": null
+    },
+    "results": [
+        {
+            "recalls": [
+                {
+                    "id": 21261,
+                    "manufacturer": "BMW of North America, LLC",
+                    "mfrCampaignNumber": null,
+                    "nhtsaCampaignNumber": "16V747000",
+                    "reportReceivedDate": "2016-10-17T04:00:00Z",
+                    "subject": "Seat Belt may Not Lock/FMVSS 209",
+                    "summary": "BMW of North America, LLC (BMW) is recalling certain model year 2016-2017 X1 sDrive28i, X1 xDrive28i, MINI Hardtop 4 Door Cooper, Mini Hardtop 4 Door Cooper S, MINI Cooper Clubman, and Cooper S Clubman, 2017 Rolls-Royce Ghost, and 2016 528i vehicles.  The vehicle-sensitive locking mechanism of the seat belt Emergency Locking Retractor (ELR) for the driver's seat may not lock as designed.  As such, these vehicles fail to comply with the requirements of the Federal Motor Vehicle Safety Standard (FMVSS) number 209, \"Seat Belt Assemblies.\"",
+                    "consequence": "In the event of a crash where heavy braking is applied, the Emergency Locking Retractor (ELR) may activate when the occupant is more forward in the seat, possibly increasing the risk of injury.",
+                    "correctiveAction": "BMW will notify owners, and dealers will replace the driver's seat belt assembly, free of charge.  The recall is expected to begin July 2, 2019.  Owners may contact BMW customer service at 1-800-525-7417.",
+                    "potentialNumberOfUnitsAffected": 15455,
+                    "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+                    "components": [
+                        {
+                            "id": 340,
+                            "name": "SEAT BELTS",
+                            "description": "151300 SEAT BELTS"
+                        }
+                    ],
+                    "investigations": [],
+                    "associatedDocumentsCount": 13,
+                    "associatedDocuments": [
+                        {
+                            "id": 641572,
+                            "fileName": "RCLRPT-16V747-3031.PDF",
+                            "fileSize": 218197,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578454
+                                },
+                                {
+                                    "id": 2578452
+                                },
+                                {
+                                    "id": 2578453
+                                },
+                                {
+                                    "id": 2578455
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Non-Compliance Notice 573 Report/FMVSS 209",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCLRPT-16V747-3031.PDF"
+                        },
+                        {
+                            "id": 641574,
+                            "fileName": "RCAK-16V747-6138.pdf",
+                            "fileSize": 293553,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578462
+                                },
+                                {
+                                    "id": 2578463
+                                },
+                                {
+                                    "id": 2578460
+                                },
+                                {
+                                    "id": 2578461
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall Acknowledgement",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCAK-16V747-6138.pdf"
+                        },
+                        {
+                            "id": 641575,
+                            "fileName": "RCLRPT-16V747-9348.PDF",
+                            "fileSize": 216778,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578467
+                                },
+                                {
+                                    "id": 2578465
+                                },
+                                {
+                                    "id": 2578466
+                                },
+                                {
+                                    "id": 2578464
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall 573 Report - AMENDMENT 2",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCLRPT-16V747-9348.PDF"
+                        },
+                        {
+                            "id": 641576,
+                            "fileName": "RCMN-16V747-8011.pdf",
+                            "fileSize": 178973,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578468
+                                },
+                                {
+                                    "id": 2578469
+                                },
+                                {
+                                    "id": 2578470
+                                },
+                                {
+                                    "id": 2578471
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc) - Subject: BMW Recall 16V-747: Emergency Locking Retractor (ELR)",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCMN-16V747-8011.pdf"
+                        },
+                        {
+                            "id": 641577,
+                            "fileName": "RMISC-16V747-5957.pdf",
+                            "fileSize": 91304,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578473
+                                },
+                                {
+                                    "id": 2578472
+                                },
+                                {
+                                    "id": 2578475
+                                },
+                                {
+                                    "id": 2578474
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Miscellaneous Document",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RMISC-16V747-5957.pdf"
+                        },
+                        {
+                            "id": 641579,
+                            "fileName": "RCLRPT-16V747-9529.PDF",
+                            "fileSize": 218244,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578483
+                                },
+                                {
+                                    "id": 2578480
+                                },
+                                {
+                                    "id": 2578481
+                                },
+                                {
+                                    "id": 2578482
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall 573 Report - Amendment 1",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCLRPT-16V747-9529.PDF"
+                        },
+                        {
+                            "id": 641581,
+                            "fileName": "RCLRPT-16V747-6665.PDF",
+                            "fileSize": 218244,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578489
+                                },
+                                {
+                                    "id": 2578491
+                                },
+                                {
+                                    "id": 2578488
+                                },
+                                {
+                                    "id": 2578490
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall 573 Report - Amendment 1",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCLRPT-16V747-6665.PDF"
+                        },
+                        {
+                            "id": 641583,
+                            "fileName": "RCNOC-16V747-9045.pdf",
+                            "fileSize": 382377,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578496
+                                },
+                                {
+                                    "id": 2578499
+                                },
+                                {
+                                    "id": 2578498
+                                },
+                                {
+                                    "id": 2578497
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "NHTSA Originated Correspondence",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCNOC-16V747-9045.pdf"
+                        },
+                        {
+                            "id": 641587,
+                            "fileName": "RCMN-16V747-5536.pdf",
+                            "fileSize": 220297,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578513
+                                },
+                                {
+                                    "id": 2578515
+                                },
+                                {
+                                    "id": 2578514
+                                },
+                                {
+                                    "id": 2578512
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc) - Subject: MINI Recall 16V-747: Emergency Locking Retractor (ELR)",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCMN-16V747-5536.pdf"
+                        },
+                        {
+                            "id": 641588,
+                            "fileName": "RCRIT-16V747-8136.pdf",
+                            "fileSize": 88479,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578519
+                                },
+                                {
+                                    "id": 2578517
+                                },
+                                {
+                                    "id": 2578516
+                                },
+                                {
+                                    "id": 2578518
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Remedy Instructions and TSB",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCRIT-16V747-8136.pdf"
+                        },
+                        {
+                            "id": 641590,
+                            "fileName": "RCLRPT-16V747-4681.PDF",
+                            "fileSize": 216485,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578526
+                                },
+                                {
+                                    "id": 2578525
+                                },
+                                {
+                                    "id": 2578524
+                                },
+                                {
+                                    "id": 2578527
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall 573 Report - AMENDMENT 3",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCLRPT-16V747-4681.PDF"
+                        },
+                        {
+                            "id": 641592,
+                            "fileName": "RMISC-16V747-8136.pdf",
+                            "fileSize": 131530,
+                            "loadDate": "2019-05-18T03:00:03Z",
+                            "metaData": [
+                                {
+                                    "id": 2578533
+                                },
+                                {
+                                    "id": 2578532
+                                },
+                                {
+                                    "id": 2578534
+                                },
+                                {
+                                    "id": 2578535
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Miscellaneous Document",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RMISC-16V747-8136.pdf"
+                        },
+                        {
+                            "id": 647230,
+                            "fileName": "RCMN-16V747-7571.pdf",
+                            "fileSize": 88479,
+                            "loadDate": "2019-05-30T04:05:05Z",
+                            "metaData": [
+                                {
+                                    "id": 2995200
+                                },
+                                {
+                                    "id": 2995199
+                                },
+                                {
+                                    "id": 2995201
+                                },
+                                {
+                                    "id": 2995202
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc)- Aftersales Bulletin\nGhost (RR4) Left front seat belt replacement \u2013 Safety Recall 16V-747",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2016/RCMN-16V747-7571.pdf"
+                        }
+                    ],
+                    "associatedProductsCount": 8,
+                    "associatedProducts": [
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2016",
+                            "productMake": "BMW",
+                            "productModel": "X1",
+                            "productionDates": "05/12/2016 - 10/14/2016",
+                            "manufacturer": "BMW of North America, LLC"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2017",
+                            "productMake": "ROLLS-ROYCE",
+                            "productModel": "GHOST",
+                            "productionDates": "08/08/2016 - 09/13/2016",
+                            "manufacturer": "BMW of North America, LLC"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2017",
+                            "productMake": "MINI",
+                            "productModel": "COOPER",
+                            "productionDates": "07/05/2016 - 09/06/2016",
+                            "manufacturer": "BMW of North America, LLC"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2016",
+                            "productMake": "MINI",
+                            "productModel": "COOPER S",
+                            "productionDates": "05/09/2016 - 09/21/2016",
+                            "manufacturer": "BMW of North America, LLC"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2016",
+                            "productMake": "MINI",
+                            "productModel": "COOPER",
+                            "productionDates": "07/05/2016 - 09/06/2016",
+                            "manufacturer": "BMW of North America, LLC"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2016",
+                            "productMake": "BMW",
+                            "productModel": "528I",
+                            "productionDates": "06/02/2016 - 06/02/2016",
+                            "manufacturer": "BMW of North America, LLC"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2017",
+                            "productMake": "BMW",
+                            "productModel": "X1",
+                            "productionDates": "05/12/2016 - 10/14/2016",
+                            "manufacturer": "BMW of North America, LLC"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2017",
+                            "productMake": "MINI",
+                            "productModel": "COOPER S",
+                            "productionDates": "05/09/2016 - 09/21/2016",
+                            "manufacturer": "BMW of North America, LLC"
+                        }
+                    ]
+                }
+            ],
+            "investigations": []
+        }
+    ]
+}

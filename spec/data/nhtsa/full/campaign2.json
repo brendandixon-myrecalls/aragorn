@@ -1,0 +1,467 @@
+{
+    "meta": {
+        "status": 200,
+        "messages": [],
+        "pagination": {
+            "count": 1,
+            "max": 20,
+            "offset": 0,
+            "sort": "id",
+            "order": null,
+            "total": 1,
+            "currentUrl": "https://api.nhtsa.gov/safetyIssues/byNhtsaId?offset=0&max=20&sort=id&nhtsaId=18V579000",
+            "nextUrl": null,
+            "previousUrl": null
+        },
+        "filters": null
+    },
+    "results": [
+        {
+            "recalls": [
+                {
+                    "id": 21118,
+                    "manufacturer": "Toyota Motor Engineering & Manufacturing",
+                    "mfrCampaignNumber": "J0T",
+                    "nhtsaCampaignNumber": "18V579000",
+                    "reportReceivedDate": "2018-09-05T00:00:00Z",
+                    "subject": "Engine Wire Harness May Chafe and Short",
+                    "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2018 Toyota Prius vehicles.  A portion of the engine wire harness connected to the hybrid Power Control Unit (PCU), could contact the cover at this connection and wear, causing an electrical short circuit.",
+                    "consequence": "An electrical short can increase the risk of a fire.",
+                    "correctiveAction": "Toyota will notify owners, and dealers will inspect the engine wire harness assembly and replace it if damage is found.  A protective sleeve or protective tape will be included to prevent any future damage.  These repairs will be performed free of charge.  The recall began October 30, 2018.  Owners may contact Toyota customer service at 1-888-270-9371.  Toyota's number for this recall is J0T.",
+                    "potentialNumberOfUnitsAffected": 192347,
+                    "notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+                    "components": [
+                        {
+                            "id": 141,
+                            "name": "ELECTRICAL SYSTEM",
+                            "description": "114000 ELECTRICAL SYSTEM"
+                        }
+                    ],
+                    "investigations": [],
+                    "associatedDocumentsCount": 17,
+                    "associatedDocuments": [
+                        {
+                            "id": 578114,
+                            "fileName": "RMISC-18V579-0077.pdf",
+                            "fileSize": 146514,
+                            "loadDate": "2018-09-08T03:00:13Z",
+                            "metaData": [
+                                {
+                                    "id": 2324620
+                                },
+                                {
+                                    "id": 2324623
+                                },
+                                {
+                                    "id": 2324622
+                                },
+                                {
+                                    "id": 2324621
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Miscellaneous Document - September 5, 2018 - DEFECT INFORMATION REPORT and CHRONOLOGY",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RMISC-18V579-0077.pdf"
+                        },
+                        {
+                            "id": 578115,
+                            "fileName": "RCMN-18V579-2776.pdf",
+                            "fileSize": 1158331,
+                            "loadDate": "2018-09-08T03:00:13Z",
+                            "metaData": [
+                                {
+                                    "id": 2324624
+                                },
+                                {
+                                    "id": 2324625
+                                },
+                                {
+                                    "id": 2324627
+                                },
+                                {
+                                    "id": 2324626
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc) - SAFETY RECALL J0T (Interim Notice) - (Interim J1T) - Certain 2016 \u2013 2018 Model Year Prius - Engine Wire Harness",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCMN-18V579-2776.pdf"
+                        },
+                        {
+                            "id": 578124,
+                            "fileName": "RCAK-18V579-9480.pdf",
+                            "fileSize": 245950,
+                            "loadDate": "2018-09-08T03:00:13Z",
+                            "metaData": [
+                                {
+                                    "id": 2324660
+                                },
+                                {
+                                    "id": 2324663
+                                },
+                                {
+                                    "id": 2324662
+                                },
+                                {
+                                    "id": 2324661
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall Acknowledgement",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCAK-18V579-9480.pdf"
+                        },
+                        {
+                            "id": 578125,
+                            "fileName": "RCMN-18V579-5305.pdf",
+                            "fileSize": 547123,
+                            "loadDate": "2018-09-08T03:00:13Z",
+                            "metaData": [
+                                {
+                                    "id": 2324664
+                                },
+                                {
+                                    "id": 2324665
+                                },
+                                {
+                                    "id": 2324666
+                                },
+                                {
+                                    "id": 2324667
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc) - Safety Recall J0T (Interim J1T) \u2013 Interim Notice - Certain 2016 \u2013 2018 Model Year Prius - Engine Wire Harness",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCMN-18V579-5305.pdf"
+                        },
+                        {
+                            "id": 578127,
+                            "fileName": "RCMN-18V579-7211.pdf",
+                            "fileSize": 1153622,
+                            "loadDate": "2018-09-08T03:00:13Z",
+                            "metaData": [
+                                {
+                                    "id": 2324672
+                                },
+                                {
+                                    "id": 2324674
+                                },
+                                {
+                                    "id": 2324673
+                                },
+                                {
+                                    "id": 2324675
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc) - SAFETY RECALL J0T (Interim Notice) - (Interim J1T) - Certain 2016 \u2013 2018 Model Year Prius - Engine Wire Harness",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCMN-18V579-7211.pdf"
+                        },
+                        {
+                            "id": 578131,
+                            "fileName": "RCLRPT-18V579-4083.pdf",
+                            "fileSize": 215908,
+                            "loadDate": "2018-09-08T03:00:13Z",
+                            "metaData": [
+                                {
+                                    "id": 2324688
+                                },
+                                {
+                                    "id": 2324691
+                                },
+                                {
+                                    "id": 2324689
+                                },
+                                {
+                                    "id": 2324690
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Defect Notice 573 Report",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCLRPT-18V579-4083.pdf"
+                        },
+                        {
+                            "id": 601954,
+                            "fileName": "RCLRPT-18V579-4128.PDF",
+                            "fileSize": 215923,
+                            "loadDate": "2018-09-21T00:04:48Z",
+                            "metaData": [
+                                {
+                                    "id": 2419983
+                                },
+                                {
+                                    "id": 2419982
+                                },
+                                {
+                                    "id": 2419980
+                                },
+                                {
+                                    "id": 2419981
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall 573 Report - AMENDMENT 1",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCLRPT-18V579-4128.PDF"
+                        },
+                        {
+                            "id": 612607,
+                            "fileName": "RCLQRT-18V579-7287.PDF",
+                            "fileSize": 211154,
+                            "loadDate": "2019-01-31T00:05:05Z",
+                            "metaData": [
+                                {
+                                    "id": 2462592
+                                },
+                                {
+                                    "id": 2462594
+                                },
+                                {
+                                    "id": 2462595
+                                },
+                                {
+                                    "id": 2462593
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall Quarterly Report #1, 2018-4",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCLQRT-18V579-7287.PDF"
+                        },
+                        {
+                            "id": 615527,
+                            "fileName": "RCRIT-18V579-5357.pdf",
+                            "fileSize": 7988748,
+                            "loadDate": "2018-09-12T00:04:57Z",
+                            "metaData": [
+                                {
+                                    "id": 2474275
+                                },
+                                {
+                                    "id": 2474273
+                                },
+                                {
+                                    "id": 2474272
+                                },
+                                {
+                                    "id": 2474274
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Remedy Instructions and TSB",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCRIT-18V579-5357.pdf"
+                        },
+                        {
+                            "id": 617318,
+                            "fileName": "RCMN-18V579-3581.pdf",
+                            "fileSize": 1901268,
+                            "loadDate": "2019-03-19T00:05:05Z",
+                            "metaData": [
+                                {
+                                    "id": 2481437
+                                },
+                                {
+                                    "id": 2481439
+                                },
+                                {
+                                    "id": 2481436
+                                },
+                                {
+                                    "id": 2481438
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc)- Updated Dealer Letter March 15, 2019",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCMN-18V579-3581.pdf"
+                        },
+                        {
+                            "id": 623818,
+                            "fileName": "RCMN-18V579-0870.pdf",
+                            "fileSize": 1782700,
+                            "loadDate": "2018-11-30T00:04:55Z",
+                            "metaData": [
+                                {
+                                    "id": 2507436
+                                },
+                                {
+                                    "id": 2507437
+                                },
+                                {
+                                    "id": 2507438
+                                },
+                                {
+                                    "id": 2507439
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc)- Updated Dealer letter",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCMN-18V579-0870.pdf"
+                        },
+                        {
+                            "id": 624126,
+                            "fileName": "RCONL-18V579-5029.pdf",
+                            "fileSize": 61941,
+                            "loadDate": "2018-11-02T00:05:33Z",
+                            "metaData": [
+                                {
+                                    "id": 2508670
+                                },
+                                {
+                                    "id": 2508668
+                                },
+                                {
+                                    "id": 2508669
+                                },
+                                {
+                                    "id": 2508671
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "ISSUED Owner Notification Letter(Part 577)",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCONL-18V579-5029.pdf"
+                        },
+                        {
+                            "id": 630174,
+                            "fileName": "RCRIT-18V579-5292.pdf",
+                            "fileSize": 7676987,
+                            "loadDate": "2018-11-20T00:04:37Z",
+                            "metaData": [
+                                {
+                                    "id": 2532862
+                                },
+                                {
+                                    "id": 2532863
+                                },
+                                {
+                                    "id": 2532861
+                                },
+                                {
+                                    "id": 2532860
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Remedy Instructions and TSB",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCRIT-18V579-5292.pdf"
+                        },
+                        {
+                            "id": 640788,
+                            "fileName": "RCMN-18V579-3935.pdf",
+                            "fileSize": 1689999,
+                            "loadDate": "2018-09-26T00:05:18Z",
+                            "metaData": [
+                                {
+                                    "id": 2575316
+                                },
+                                {
+                                    "id": 2575317
+                                },
+                                {
+                                    "id": 2575318
+                                },
+                                {
+                                    "id": 2575319
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc)- Certain 2016 \u2013 2018 Model Year Prius - Engine Wire Harness - NHTSA Recall No. 18V-579",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCMN-18V579-3935.pdf"
+                        },
+                        {
+                            "id": 640791,
+                            "fileName": "RCMN-18V579-9865.pdf",
+                            "fileSize": 1761475,
+                            "loadDate": "2018-09-26T00:05:18Z",
+                            "metaData": [
+                                {
+                                    "id": 2575331
+                                },
+                                {
+                                    "id": 2575329
+                                },
+                                {
+                                    "id": 2575328
+                                },
+                                {
+                                    "id": 2575330
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc)- Certain 2016 \u2013 2018 Model Year Prius - Engine Wire Harness - NHTSA Recall No. 18V-579",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCMN-18V579-9865.pdf"
+                        },
+                        {
+                            "id": 640792,
+                            "fileName": "RCMN-18V579-6518.pdf",
+                            "fileSize": 518982,
+                            "loadDate": "2018-09-26T00:05:18Z",
+                            "metaData": [
+                                {
+                                    "id": 2575333
+                                },
+                                {
+                                    "id": 2575335
+                                },
+                                {
+                                    "id": 2575332
+                                },
+                                {
+                                    "id": 2575334
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Manufacturer Notices(to Dealers,etc)- Safety Recall J0T \u2013 Remedy Notice - Certain 2016 \u2013 2018 Model Year Prius Engine Wire Harness - Safety Recall J0T Dealer Letter and Technical Instructions now available on TIS.",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCMN-18V579-6518.pdf"
+                        },
+                        {
+                            "id": 646320,
+                            "fileName": "RCLQRT-18V579-6265.PDF",
+                            "fileSize": 211260,
+                            "loadDate": "2019-05-03T00:05:06Z",
+                            "metaData": [
+                                {
+                                    "id": 2597446
+                                },
+                                {
+                                    "id": 2597447
+                                },
+                                {
+                                    "id": 2597445
+                                },
+                                {
+                                    "id": 2597444
+                                }
+                            ],
+                            "mimeType": "application/pdf",
+                            "summary": "Recall Quarterly Report #2, 2019-1",
+                            "url": "https://static.nhtsa.gov/odi/rcl/2018/RCLQRT-18V579-6265.PDF"
+                        }
+                    ],
+                    "associatedProductsCount": 3,
+                    "associatedProducts": [
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2017",
+                            "productMake": "TOYOTA",
+                            "productModel": "PRIUS",
+                            "productionDates": "06/22/2015 - 05/15/2018",
+                            "manufacturer": "Toyota Motor Corporation"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2016",
+                            "productMake": "TOYOTA",
+                            "productModel": "PRIUS",
+                            "productionDates": "06/22/2015 - 05/15/2018",
+                            "manufacturer": "Toyota Motor Corporation"
+                        },
+                        {
+                            "type": "Vehicle",
+                            "productYear": "2018",
+                            "productMake": "TOYOTA",
+                            "productModel": "PRIUS",
+                            "productionDates": "06/22/2015 - 05/15/2018",
+                            "manufacturer": "Toyota Motor Corporation"
+                        }
+                    ]
+                }
+            ],
+            "investigations": []
+        }
+    ]
+}

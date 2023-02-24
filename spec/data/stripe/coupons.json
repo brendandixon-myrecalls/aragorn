@@ -1,0 +1,53 @@
+[
+    {
+        "id": "coupon_free",
+        "object": "coupon",
+        "amount_off": null,
+        "created": 1534720464,
+        "currency": null,
+        "duration": "forever",
+        "duration_in_months": null,
+        "livemode": false,
+        "max_redemptions": null,
+        "metadata": {},
+        "name": "Free",
+        "percent_off": 100.0,
+        "redeem_by": null,
+        "times_redeemed": 0,
+        "valid": true
+    },
+    {
+        "id": "coupon_halfoff",
+        "object": "coupon",
+        "amount_off": null,
+        "created": 1534720464,
+        "currency": null,
+        "duration": "forever",
+        "duration_in_months": null,
+        "livemode": false,
+        "max_redemptions": null,
+        "metadata": {},
+        "name": "Halfoff",
+        "percent_off": 50.0,
+        "redeem_by": null,
+        "times_redeemed": 0,
+        "valid": true
+    },
+    {
+        "id": "coupon_amount_off",
+        "object": "coupon",
+        "amount_off": 100,
+        "created": 1534720464,
+        "currency": null,
+        "duration": "forever",
+        "duration_in_months": null,
+        "livemode": false,
+        "max_redemptions": null,
+        "metadata": {},
+        "name": "amountoff",
+        "percent_off": null,
+        "redeem_by": null,
+        "times_redeemed": 0,
+        "valid": true
+    }
+]

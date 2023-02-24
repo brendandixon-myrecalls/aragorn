@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "status": 200,
+        "messages": [],
+        "pagination": {
+            "count": 1,
+            "max": 20,
+            "offset": 0,
+            "sort": "id",
+            "order": null,
+            "total": 1,
+            "currentUrl": "https://api.nhtsa.gov/vehicles/byVin?offset=0&max=20&sort=id&data=none&vin=JTDKARFU0H3528314&productDetail=all",
+            "nextUrl": null,
+            "previousUrl": null
+        },
+        "filters": null
+    },
+    "results": [
+        {
+            "vehicleId": 9153,
+            "modelYear": 2017,
+            "make": "TOYOTA",
+            "vehicleModel": "PRIUS",
+            "trim": "5 HB",
+            "series": "FWD",
+            "class": "PASSENGER CAR",
+            "manufacturer": "TOYOTA MOTOR CORPORATION",
+            "vehiclePicture": null,
+            "ncapRated": true,
+            "complaintsCount": 64,
+            "recallsCount": 3,
+            "investigationsCount": 0,
+            "manufacturerCommunicationsCount": 117
+        }
+    ]
+}

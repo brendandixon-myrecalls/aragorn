@@ -1,0 +1,34 @@
+{
+    "Count": 2,
+    "Message": "Results returned successfully",
+    "Results": [
+        {
+            "Manufacturer": "Toyota Motor Engineering & Manufacturing",
+            "NHTSACampaignNumber": "16V741000",
+            "ReportReceivedDate": "\/Date(1476417600000-0400)\/",
+            "Component": "PARKING BRAKE",
+            "PotentialNumberofUnitsAffected": 91585,
+            "Summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2016-2017 Prius vehicles manufactured August 6, 2015, to October 3, 2016.  The affected vehicles are equipped with a foot-operated parking brake system that has a parking brake cable that may disengage.",
+            "Conequence": "If the parking brake cable disengages from the mechanism and the transmission is left in a gear other than 'Park' while the ignition is on and the driver leaves the vehicle, the vehicle may roll unexpectedly, increasing the risk of a crash.",
+            "Remedy": "Toyota will notify owners, and dealers will install a clip at the parking brake cable end to prevent the cable from disengaging, free of charge.  The recall began November 10, 2016.  Owners may contact Toyota customer service at 1-888-270-9371.  Toyota's number for this recall is G01.",
+            "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+            "ModelYear": "2017",
+            "Make": "TOYOTA",
+            "Model": "PRIUS"
+        },
+        {
+            "Manufacturer": "Toyota Motor Engineering & Manufacturing",
+            "NHTSACampaignNumber": "16V741000",
+            "ReportReceivedDate": "\/Date(1476417600000-0400)\/",
+            "Component": "PARKING BRAKE",
+            "PotentialNumberofUnitsAffected": 91585,
+            "Summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2016-2017 Prius vehicles manufactured August 6, 2015, to October 3, 2016.  The affected vehicles are equipped with a foot-operated parking brake system that has a parking brake cable that may disengage.",
+            "Conequence": "If the parking brake cable disengages from the mechanism and the transmission is left in a gear other than 'Park' while the ignition is on and the driver leaves the vehicle, the vehicle may roll unexpectedly, increasing the risk of a crash.",
+            "Remedy": "Toyota will notify owners, and dealers will install a clip at the parking brake cable end to prevent the cable from disengaging, free of charge.  The recall began November 10, 2016.  Owners may contact Toyota customer service at 1-888-270-9371.  Toyota's number for this recall is G01.",
+            "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+            "ModelYear": "2016",
+            "Make": "TOYOTA",
+            "Model": "PRIUS"
+        }
+    ]
+}

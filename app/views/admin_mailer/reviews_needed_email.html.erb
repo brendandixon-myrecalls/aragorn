@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <h1>MyRecalls <%= @recalls.count %> Pending <%= 'Review'.pluralize(@recalls.count) %></h1>
+
+    <ul>
+    <% @recalls.each do |recall| %>
+      <li><%= recall.feed_name %> &mdash; <%= recall.title %></li>
+    <% end %>
+    </ul>
+
+    <p><a href="<%= @link %>">Click to Review</a></p>
+  </body>
+</html>
